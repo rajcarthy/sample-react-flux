@@ -1,4 +1,4 @@
-const courses = [
+const books = [
     {
         id : 1,
         title : "Hitchickers Guide to the Galaxy",
@@ -20,7 +20,7 @@ const authors = [
     { id : 2, name : "Leo Tolstoy"}
 ];
 
-const newCourse = {
+const newBooks = {
     id: null,
     title: "",
     authorId : null,
@@ -29,7 +29,7 @@ const newCourse = {
 
 
 module.exports = {
-    newCourse,
-    courses,
+    newBooks,
+    books,
     authors
 }

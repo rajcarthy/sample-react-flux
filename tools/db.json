@@ -1,1 +1,1 @@
-{"courses":[{"id":1,"title":"Hitchickers Guide to the Galaxy","slug":"h2g2","authorId":1,"category":"Humor"},{"id":2,"title":"War and Peace","slug":"war-and-peace","authorId":2,"category":"classic"}],"authors":[{"id":1,"name":"Douglas Adams"},{"id":2,"name":"Leo Tolstoy"}]}
+{"books":[{"id":1,"title":"Hitchickers Guide to the Galaxy","slug":"h2g2","authorId":1,"category":"Humor"},{"id":2,"title":"War and Peace","slug":"war-and-peace","authorId":2,"category":"classic"}],"authors":[{"id":1,"name":"Douglas Adams"},{"id":2,"name":"Leo Tolstoy"}]}
